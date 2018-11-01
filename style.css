@@ -1,0 +1,13 @@
+.mynav{ margin:0; padding:0; list-style:none;}
+		.mynav ul{}
+		.mynav ul li{}
+		.mynav li a 
+			{
+			text-decoration: none;
+			display: block;
+			background: #666;
+			color: #fff;
+			margin-bottom: 1px;
+			padding: 5px;
+			}
+		.mynav li a:hover{background: #444;}
