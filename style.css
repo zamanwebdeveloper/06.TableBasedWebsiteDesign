@@ -21,7 +21,9 @@
 }
 .mainnav li a:hover{background:#333; color:#fff;}
 table.mytable{margin:20px 10px 10px 80px; width:900px;}
-.mytable tr td{text-align:center;}
-.mytable tr th{text-align:center; background:#999;}
+table.mytable tr td{text-align:center;}
+table.mytable tr th{text-align:center; background:#444; color:#fff; padding:5px;}
+table.mytable tr:nth-child(2n+1){background:#fff; height:30px;}
+table.mytable tr:nth-child(2n){background:#9B999B; height:30px;}
 
 .mynav li a:hover{background: #444;}
